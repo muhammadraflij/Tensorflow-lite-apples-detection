@@ -1,5 +1,6 @@
 # Tensorflow lite apples detection
 -train model for detection of fresh and rotten apples using tensorflow lite framework and efficientdet lite model
+<a href="https://colab.research.google.com/drive/1SbOUv9qlntID7oebfTGQSdud-S0xkvYY?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 -let's try the app
 
